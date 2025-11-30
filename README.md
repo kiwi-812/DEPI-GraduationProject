@@ -9,11 +9,9 @@ This project focuses on analyzing hotel data from multiple perspectives to disco
 ---
 
 ## 🔍 Project Focus Areas  
-📊 **HR Analysis** – Understand staff performance, turnover, and efficiency.  
 💬 **Customer Analysis** – Explore guest demographics, satisfaction, and feedback.  
 💰 **Profitability, Income & Cost Analysis** – Identify financial strengths and improvement areas.  
 📅 **Reservation Analysis** – Analyze booking trends and occupancy patterns.  
-🛎️ **Hotel Services Analysis** – Evaluate service usage and guest preferences.
 
 ---
 
